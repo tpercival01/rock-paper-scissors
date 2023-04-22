@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/rock-paper-scissors-using-react-8-1bK0b6lZ)
+- Live Site URL: [Render](https://rock-paper-scissors-ojoo.onrender.com)
 
 ## My process
 
